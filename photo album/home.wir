@@ -1,0 +1,5 @@
+[home]
+;I show a random picture from the album
+begin slideshow  = slideshow
+nav
+---------------------------------------------------------

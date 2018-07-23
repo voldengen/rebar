@@ -1,0 +1,1 @@
+<cfinclude template="fbx_fusebox_FEX_CF50.cfm">

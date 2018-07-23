@@ -1,0 +1,8 @@
+[edit picture]
+;I display the picture, provide an upload box to overwrite this picture, and a textbox to edit the caption for this picture.
+save = picture
+back = picture
+delete = delete picture
+
+nav
+---------------------------------------------------------

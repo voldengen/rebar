@@ -1,0 +1,6 @@
+[slideshow]
+;I start the slideshow, showing every picture in the album.
+;A button lets the slide show pause, another button lets the slide show resume.
+edit this picture   = edit picture
+nav
+---------------------------------------------------------

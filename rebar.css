@@ -1,0 +1,112 @@
+BODY,TD  {
+	font-size : 8pt;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+}
+
+.alt2 {
+	background-color : #EEEEEE;
+}
+
+.border {
+	border: 1pt solid black;
+}
+		
+.pageHeader {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 9pt;
+		border-top: 1px silver solid;
+		border-bottom: 1px silver solid;
+		color: #000000;
+		font-weight: bold;
+		background-color : #EEEEEE; }
+		
+.pagesubHeader {
+	font-size : 8pt;
+	font-weight: regular;
+	border-top: 1px silver solid;
+	border-bottom: 1px silver solid;
+	font-family : Arial, Helvetica, sans-serif;
+	color : #000000;
+	background-color: #EEEEEE;
+}
+
+.pagesubHeader2 {
+	font-size : 8pt;
+	font-weight: regular;
+	border-top: 1px silver solid;
+	border-bottom: 1px silver solid;
+	font-family : Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #EEEEEE;
+}
+
+
+
+.pageBody {
+	font-size : 8pt;
+	font-weight: normal;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+	background-color: #FFFFFF;
+}
+
+.pageLinks {
+	font-size : 8pt;
+	font-weight: normal;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+	background-color: #FFFFFF;
+}
+
+.pageNested {
+	font-size : 8pt;
+	font-weight: normal;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+	background-color: #FFFFFF;
+}
+
+.formInput {
+	font-size : 8pt;
+	font-weight: normal;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+	background-color: #FFFFFF;
+}
+
+.formButton {
+	font-size : 8pt;
+	font-weight: normal;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+	background-color: #EEEEEE;
+}
+
+.alert {
+	font-size : 8pt;
+	font-weight: bold;
+	font-family : Verdana,Arial,sans-serif;
+	color : #ff0000;
+}
+
+.disclaimer {
+	font-size : 6pt;
+	font-weight: normal;
+	font-family : Verdana,Arial,sans-serif;
+	color : #000000;
+}
+
+A  { color: #003366; }
+
+A:Visited  { color: #003399; }
+
+A:Active  { color: #FF9900; }
+
+A:Hover  { color : #FF9900; }
+
+A.NestedPage { font-weight : bold; }
+
+A.altLink, A.altLink:Active, A.altLink:Visited { COLOR: #000000; }
+
+A.altLink:Hover { COLOR: #ff6600; }

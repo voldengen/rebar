@@ -1,0 +1,5 @@
+[thumbnails]
+;I show a thumbnail of each picture in the album.
+click a thumbnail     = picture
+nav
+---------------------------------------------------------

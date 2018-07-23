@@ -1,0 +1,1 @@
+<cffile action="DELETE" file="#wireframedatadirectory##lcase(attributes.pagename)#.wir">

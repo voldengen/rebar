@@ -1,0 +1,6 @@
+[upload form]
+;I allow a user to upload a picture, and enter a caption for that picture.
+save   = picture
+cancel   = home
+nav
+---------------------------------------------------------
